@@ -1,5 +1,9 @@
 https://vitejs.dev/guide/
 
+https://www.youtube.com/watch?v=Z0rxniw2nBc&ab_channel
+https://www.youtube.com/watch?v=lf32_XjKxxo&ab_channel
+
+
 npm create vite@latest
 cd todo_list
 npm install
