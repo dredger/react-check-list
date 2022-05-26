@@ -32,7 +32,7 @@ export const App: React.FC = () => {
 
     return (
         <article className={styles.article}>
-            <h1 className={styles.articleTitle}>TO DO APP</h1>
+            <h1 className={styles.articleTitle}>Check list APP</h1>
             <section className={styles.articleSection}>
                 <InputPlus
                     onAdd={(title) => {
